@@ -1,4 +1,14 @@
-header {
-    background-color: #424E61;
+ {
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-famili: 'poppins', sans-serif;
+}
+
+.cabecalho{
+    background-color: #475872;
     color: white;
+    display: flex;
 }
